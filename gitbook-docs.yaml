@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: 《Effective Go》中英双语版
+  structure:
+    - type: space
+      key: space-effective-go
+      title: Effective Go 中英双语版
+      path: effective-go
+      default: true
+      content:
+        directory: ./
